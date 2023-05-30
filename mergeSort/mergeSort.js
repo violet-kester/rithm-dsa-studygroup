@@ -19,9 +19,6 @@
  *
  *  =========================================
  *
- *  Step-by-step calls:
- *    - See console logs.
- *
  *  Time complexity: O(n log n) - quasilinear time
  *    - O(n log n) for any number of elemnts.
  *    - Efficient for large lists.
